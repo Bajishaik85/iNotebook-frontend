@@ -3,7 +3,7 @@ import noteContext from "./NoteContext";
 
 
 const NoteState = (props) => {
-    const host = "https://inotebook-backend-82ye.onrender.com/"
+    const host = "https://inotebook-backend-82ye.onrender.com"
     const notesInitial = [
         // {
         //     "_id": "6371f9b0cfc9d9a74ce834517",
